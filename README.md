@@ -23,4 +23,6 @@ Wait for something amazing to happen (Spoiler: Nothing will happen. That’s the
 - Fork the repo and make your changes (or don’t, it’s your life).
 - Submit a pull request, or just send us a meme. We like those, too.
 
+Note: common sense is most uncommon thing ( No Context ) 
+
 
